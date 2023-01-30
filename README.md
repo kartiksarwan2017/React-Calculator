@@ -131,7 +131,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <p align="justify">
    
 ### Home Page:    
-<img src="./screenshots/Home_Page.png" alt="home-page-screen">
+<img src="./screenshots/Calculator.png" alt="home-page-screen">
 
 </p>
 <br/>
