@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: grey;
+  border-radius: 100vw;
+}
+
+.wrapper{
+    background: #f6f8f9;
+    width: 20rem;
+    padding: 2rem;
+    margin-top: 4rem;
+    border-radius: 1rem;
+    position: relative;
+    left: 500px;
+    top: 200px;
+    box-shadow: 0px 9px 15px -3px rgba(0,0,0,0.1);
+  }

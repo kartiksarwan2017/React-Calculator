@@ -1,0 +1,9 @@
+.footer-container{
+    position: absolute;
+    width: 100%;
+    height: 120px;
+    background: linear-gradient(90deg, orange, yellow);
+    top: 130vh;
+    margin-top: 20px;
+
+}
