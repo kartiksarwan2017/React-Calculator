@@ -1,3 +1,58 @@
+# React Calculator
+
+## Introduction
+Creating a Simple Calculator App Using ReactJS
+
+<br/>
+
+## 🔗 Important Links
+
+> ## Checkout the Website [Web Application](https://kartiksarwan2017.github.io/React-Calculator/)
+>
+> ## Checkout the Application Demo Video [YouTube]()
+
+<br/>
+
+## Features
+
+- **Addition**
+<p>User can able to add two or more numbers. These numbers can be both decimal as well as integers.</p>
+
+- **Subtraction**
+<p>User can able to subtract two or more numbers. These numbers can be both decimal as well as integers. </p>
+
+- **Multiply**
+<p>User can able to multiply two numbers. These numbers can be both decimal as well as integers. </p>
+
+- **Division**
+<p>User can able to divide two numbers. These numbers can be both decimal as well as integers. If Numerator > 0 and denominator == 0 then the result would be displayed as Infinity.</p>
+
+- **Percentage**
+<p>User can able to calculate the percentage of a number.</p>
+
+- **PlusMinus**
+<p>User can able to use the negative as well as positive numbers in an arithmetic operation.</p>
+
+## Tools Used
+
+<p align="justify">
+<img height="140" width="140" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML logo">
+<img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo">
+<img height="140" width="140" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="Javascript logo">
+<img height="140" width="140" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" alt="React Bootstrap logo">
+<img height="140" width="140" src="https://www.pngitem.com/pimgs/m/13-131098_visual-studio-code-logo-hd-png-download.png" alt="Vscode img logo">
+</p>
+
+
+## Library Used
+- react
+- react-bootstrap
+- bootstrap
+- react-textfit
+- gh-pages
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +123,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## Screens
+
+<p align="justify">
+   
+### Home Page:    
+<img src="/screenshots/Home_Page.png" alt="home-page-screen">
+
+</p>
+<br/>
