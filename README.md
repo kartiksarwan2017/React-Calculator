@@ -130,7 +130,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <p align="justify">
    
-### Home Page:    
+### Calculator:    
 <img src="./screenshots/Calculator_Screen.png" alt="home-page-screen">
 
 </p>
