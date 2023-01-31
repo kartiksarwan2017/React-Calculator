@@ -15,7 +15,7 @@ function Header() {
   <div className="navbar-container">
    <Navbar variant="dark" className="navbar">
       <Container fluid>
-          <Navbar.Brand href="/">
+          <Navbar.Brand href="/React-Calculator">
             <img
               src= "https://img.icons8.com/external-flat-circular-vectorslab/512/external-Calculator-shopping-and-commerce-flat-circular-vectorslab.png"
               className="d-inline-block align-top calculator-icon"
